@@ -1,0 +1,29 @@
+dataid,dataname,datacode,datadescription,Meskerem 2018,Tikemet 2018,Hidar 2018,Tahesas 2018,Tir 2018,Yekatit 2018,Megabit 2018,Miazia 2018,Ginbot 2018,Sene 2018,Hamle 2018,Nehase 2018
+lQqwd8GzF5L,HTS_Inpatient _HIV Tested,HTS_Inpatient_1,,140,91,88,68,76,59,92,50,106,75,192,178
+fpD5QXzB4z5,HTS_Inpatient_HIV Testeded Positive,HTS_Inpatient_2,,0,3,1,1,0,0,0,0,1,0,1,2
+tE6Cl4fZ8Kb,HTS_Pediatrics OPD _HIV Tested,HTS_Pediatrics OPD_1,,44,32,25,23,20,22,13,26,24,27,29,28
+YmNd7vNdXIu,HTS_Pediatrics OPD_HIV Testeded Positive,HTS_Pediatrics OPD_2,,0,0,0,0,0,1,0,0,0,1,1,1
+dmhF7vG2kf0,HTS_Malnutrition Clinic _HIV Tested,HTS_Malnutrition Clinic_1,,0,0,0,0,0,0,0,0,0,0,0,0
+ymnj0IYp3G3,HTS_Malnutrition Clinic_HIV Testeded Positive,HTS_Malnutrition Clinic_2,,0,0,0,0,0,0,0,0,0,0,0,0
+MOy2JWID4XP,HTS_STI _HIV Tested,HTS_STI_1,,0,0,0,0,0,0,0,0,0,0,0,0
+M3SBZ9U7lyr,HTS_STI_HIV Testeded Positive,HTS_STI_2,,0,0,0,0,0,0,0,0,0,0,0,0
+ZtREmLal6vG,HTS_Emergency OPD / WARD _HIV Tested,HTS_Emergency OPD / WARD_1,,119,125,135,178,162,154,141,139,168,153,135,169
+wo0DzekMGx7,HTS_Emergency OPD / WARD_HIV Testeded Positive,HTS_Emergency OPD / WARD_2,,1,2,1,4,2,5,0,2,1,1,2,3
+lIzKneibYjj,HTS_SNS _HIV Tested,HTS_SNS_1,,0,0,0,0,0,0,0,0,0,0,0,0
+WFU3O6dWgv6,HTS_SNS_HIV Testeded Positive,HTS_SNS_2,,0,0,0,0,0,0,0,0,0,0,0,0
+xwr0JOeppYm,HTS_VCT _HIV Tested,HTS_VCT_1,,134,100,107,144,118,119,105,119,128,121,123,110
+oXGupKxn0oe,HTS_VCT_HIV Testeded Positive,HTS_VCT_2,,1,1,2,5,1,4,1,0,2,1,1,1
+JsC1G7nnPiW,HTS_TB _HIV Tested,HTS_TB_3.1,,0,1,1,1,0,3,1,0,1,2,0,0
+FGhCnwbQZzL,HTS_TB_HIV Testeded Positive,HTS_TB_3.2,,0,0,0,0,0,0,0,0,0,0,0,0
+PzSynDwpxXa,HTS_Other OPD _HIV Tested,HTS_Other OPD_1,,369,376,398,385,332,489,380,408,447,495,442,436
+A8i838EdGwt,HTS_Other OPD_HIV Testeded Positive,HTS_Other OPD_2,,3,0,1,0,1,2,0,0,1,1,3,1
+AN4OGN4rxaB,HTS_ANC1 _HIV Tested,HTS_ANC1_3.1,,25,39,37,38,32,47,17,28,22,22,30,33
+gvOVDUwddvb,HTS_ANC1_HIV Tested Positive,HTS_ANC1_3.2,,0,0,0,0,0,0,0,0,0,0,0,0
+In2TohL1UNe,HTS_Post ANC1: Pregnant _HIV Tested,HTS_Post ANC1: Pregnant_1,,4,4,7,7,4,4,6,9,1,10,0,3
+DVlYO8vkEgY,HTS_Post ANC1: Pregnant_HIV Testeded Positive,HTS_Post ANC1: Pregnant_2,,0,0,0,0,0,0,0,0,0,1,,0
+zOHNmqgmumP,HTS_Post ANC1: Breastfeeding _HIV Tested,HTS_Post ANC1: Breastfeeding_1,,0,0,0,0,0,0,0,0,0,0,0,0
+WKH1oJuNLt9,HTS_Post ANC1: Breastfeeding_HIV Testeded Positive,HTS_Post ANC1: Breastfeeding_2,,0,0,0,0,0,0,0,0,0,0,0,0
+GmmgfHA8shS,ICT_ART_Contacts tested,ICT_ART_3.2.1,,15,12,15,41,33,27,25,16,11,16,9,21
+QQCAEGgxZX4,ICT_ART_New tested positive,ICT_ART_3.2.2,,0,1,0,1,1,4,0,0,0,6,1,4
+o1lcg2H6sxO,HTS Total Tested,,,850.0,780.0,813.0,885.0,777.0,924.0,780.0,795.0,908.0,921.0,960.0,978.0
+gy1MfBSB3HM,HTS Total Tested Positive,,,5.0,7.0,5.0,11.0,5.0,16.0,1.0,2.0,5.0,11.0,9.0,12.0
